@@ -4,7 +4,7 @@ concept_personal_hygiene_oral_cavity=>nrel_main_idtf:[личная гигиен�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[personal hygiene oral cavity]
+[personal hygiene oral cavity]
         (*
                 <-lang_en;;
         *);;

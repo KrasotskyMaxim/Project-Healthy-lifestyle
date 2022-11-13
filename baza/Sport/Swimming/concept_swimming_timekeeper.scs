@@ -4,7 +4,7 @@ concept_swimming_timekeeper=>nrel_main_idtf:[хронометрист]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_timekeeper]
+[swimming_timekeeper]
         (*
                 <-lang_en;;
         *);;

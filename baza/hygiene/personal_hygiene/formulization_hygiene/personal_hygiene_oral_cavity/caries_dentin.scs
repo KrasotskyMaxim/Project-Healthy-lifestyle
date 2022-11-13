@@ -2,7 +2,7 @@ caries_dentin=>nrel_main_idtf:[кариес дентина]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[caries dentin]
+ [caries dentin]
         (*
                 <-lang_en;;
         *);;

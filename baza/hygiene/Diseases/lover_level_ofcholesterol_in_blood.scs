@@ -8,7 +8,7 @@ lover_level_of_cholesterol_in_blood=>nrel_main_idtf:[пониженый уров
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[lover level of cholesterol in blood]
+[lover level of cholesterol in blood]
         (*
                 <-lang_en;;
         *);;

@@ -2,9 +2,9 @@ concept_part1OfSubClassOf01_16<-sc_node_not_relation;;
 concept_part1OfSubClassOf01_16 => nrel_main_idtf: [Острый вирусный гепатит](*<- lang_ru;;*);;
 concept_part1OfSubClassOf01_16 => nrel_main_idtf: [Acute viral hepatitis](*<- lang_en;;*);;
 
-concept_part1OfSubClassOf01_16<-sc_node_norole_relation;
+nrel_concept_part1OfSubClassOf01_16<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50](*<-lang_en;;*);;
-concept_part1OfSubClassOf01_16<-sc_node_norole_relation;
+nrel_concept_part1OfSubClassOf01_16<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50](*<-lang_ru;;*);;
 
 

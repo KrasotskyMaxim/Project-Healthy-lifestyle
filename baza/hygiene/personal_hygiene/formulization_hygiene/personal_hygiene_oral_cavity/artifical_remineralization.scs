@@ -2,27 +2,27 @@ artifical_remineralization=>nrel_main_idtf:[искуственная ремин�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[artifical remineralization]
+ [artifical remineralization]
         (*
                 <-lang_en;;
         *);;
 
 artifical_remineralization->nrel_use:gello;varnish;;
 
-gello=>nrel_main_idtf:[гель]
+gello=>nrel_main_idtf: [гело]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[gello]
+  [gello]
         (*
                 <-lang_en;;
         *);;
 
-varnish=>nrel_main_idtf:[лак]
+varnish=>nrel_main_idtf: [лак]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[varnish]
+ [varnish]
         (*
                 <-lang_en;;
         *);;

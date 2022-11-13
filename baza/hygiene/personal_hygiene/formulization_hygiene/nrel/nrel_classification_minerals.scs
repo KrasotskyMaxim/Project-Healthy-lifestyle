@@ -1,12 +1,12 @@
 nrel_classification_minerals
 <- sc_node_norole_relation;
 => nrel_main_idtf: 
-	[классификация минералов*] 
+	[классификация минералов] 
 	(* 
 	<- lang_ru;; 
 	*);
 => nrel_main_idtf: 
-	[classification minerals*] 
+	[classification minerals] 
 	(* 
 	<- lang_en;; 
 	*);

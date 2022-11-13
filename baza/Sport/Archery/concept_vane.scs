@@ -4,7 +4,7 @@ concept_vane=>nrel_main_idtf:[оперение]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[vane]
+[vane]
         (*
                 <-lang_en;;
         *);;

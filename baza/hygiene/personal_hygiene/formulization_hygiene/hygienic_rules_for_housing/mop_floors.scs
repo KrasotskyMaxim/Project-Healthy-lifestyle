@@ -2,7 +2,7 @@ mop_floors=>nrel_main_idtf:[мыть полы]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mop floors]
+ [mop floors]
         (*
                 <-lang_en;;
 *);;

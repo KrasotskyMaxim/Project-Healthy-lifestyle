@@ -3,7 +3,7 @@ defend_earplugs=>nrel_main_idtf:[беруши для защиты от боли 
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[defend earplugs]
+ [defend earplugs]
         (*
                 <-lang_en;;
         *);;

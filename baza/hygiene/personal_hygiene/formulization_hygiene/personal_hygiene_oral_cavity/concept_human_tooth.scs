@@ -4,11 +4,11 @@ concept_human_tooth=>nrel_main_idtf:[зубы человека]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[human tooth]
+ [human tooth]
         (*
                 <-lang_en;;
         *);;
-concept_human_tooth=>nrel_idtf:[зубы]
+concept_human_tooth=>nrel_idtf: [зуб]
         (*
                 <-lang_ru;;
         *);;

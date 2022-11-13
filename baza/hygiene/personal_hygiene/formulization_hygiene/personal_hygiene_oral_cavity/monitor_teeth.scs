@@ -3,7 +3,7 @@ monitor_teeth=>nrel_main_idtf:[следить за состоянием зубо
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[monitor teeth]
+ [monitor teeth]
         (*
                 <-lang_en;;
         *);;

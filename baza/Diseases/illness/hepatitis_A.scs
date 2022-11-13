@@ -2,14 +2,14 @@ concept_hepatitis_A <-sc_node_not_relation;;
 concept_hepatitis_A => nrel_main_idtf: [Гепатит А](*<- lang_ru;;*);;
 concept_hepatitis_A => nrel_main_idtf: [hepatitis A](*<- lang_en;;*);;
 
-concept_hepatitis_A<-sc_node_norole_relation;
+nrel_concept_hepatitis_A<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.0](*<-lang_en;;*);;
-concept_hepatitis_A<-sc_node_norole_relation;
+nrel_concept_hepatitis_A<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.0](*<-lang_ru;;*);;
 
 concept_hepatitis_A<-concept_disease;;
 
-concept_hepatitis_A<-sc_node_norole_relation;
+nrel_concept_hepatitis_A<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[2 weeks](*<-lang_en;;*);;

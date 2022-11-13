@@ -45,7 +45,7 @@ rrel_year_of_pandemia_end<-sc_node_role_relation;
 nrel_pandemia<-binary_relation;;
 parameter->arity;;
 arity->binary_relation;;
-binary_relation<-sc_node_norole_relation;
+nrel_binary_relation<-sc_node_norole_relation;
 =>nrel_measurement:2;;
 2<-number;;
 nrel_pandemia<-oriented_relation;;

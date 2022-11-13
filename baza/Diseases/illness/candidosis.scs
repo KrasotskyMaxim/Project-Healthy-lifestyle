@@ -2,15 +2,15 @@ concept_candidosis<-sc_node_not_relation;;
 concept_candidosis => nrel_main_idtf: [кандидоз](*<- lang_ru;;*);;
 concept_candidosis => nrel_main_idtf: [candidosis](*<- lang_en;;*);;
 
-concept_candidosis<-sc_node_norole_relation;
+nrel_concept_candidosis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1F23](*<-lang_en;;*);;
-concept_candidosis<-sc_node_norole_relation;
+nrel_concept_candidosis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1F23](*<-lang_ru;;*);;
 
 concept_candidosis<-concept_disease;;
 
 
-concept_candidosis<-sc_node_norole_relation;
+nrel_concept_candidosis<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[4 days](*<-lang_en;;*);;

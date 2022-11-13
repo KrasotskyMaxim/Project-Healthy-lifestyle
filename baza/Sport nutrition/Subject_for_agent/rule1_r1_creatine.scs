@@ -1,5 +1,5 @@
 rule1_r1_creatine=>
-nrel_main_idtf:[Rule1 R1 Creatine]
+[Rule1 R1 Creatine]
         (*
                 <-lang_ru;;
         *);;

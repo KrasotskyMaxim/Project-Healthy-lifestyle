@@ -4,7 +4,7 @@ concept_creatine=>nrel_main_idtf:[креатин]
 (* 
 <-lang_ru;; 
 *);
-nrel_main_idtf:[creatine]
+[creatine]
         (* 
         <-lang_en;; 
         *);;
@@ -16,7 +16,7 @@ concept_amino_acids=>nrel_main_idtf:[аминокислоты]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[amino acid]
+[amino acid]
         (*
                 <-lang_en;;
         *);;
@@ -146,7 +146,7 @@ concept_creatine_monohydrate=>nrel_main_idtf:[креатин моногидра�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine monohydrate]
+[creatine monohydrate]
         (*
                 <-lang_en;;
         *);;
@@ -157,7 +157,7 @@ concept_creatine_anhydrate=>nrel_main_idtf:[креатин ангидроус]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine anhydrate]
+[creatine anhydrate]
         (*
                 <-lang_en;;
         *);;
@@ -168,7 +168,7 @@ concept_creatine_citrate=>nrel_main_idtf:[креатин цитрат]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine citrate]
+[creatine citrate]
         (*
                 <-lang_en;;
         *);;
@@ -179,7 +179,7 @@ concept_creatine_phosphate=>nrel_main_idtf:[креатин фосфат]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine phosphate]
+[creatine phosphate]
         (*
                 <-lang_en;;
         *);;
@@ -190,7 +190,7 @@ concept_creatine_malate=>nrel_main_idtf:[креатин малат]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine malate]
+[creatine malate]
         (*
                 <-lang_en;;
         *);;       

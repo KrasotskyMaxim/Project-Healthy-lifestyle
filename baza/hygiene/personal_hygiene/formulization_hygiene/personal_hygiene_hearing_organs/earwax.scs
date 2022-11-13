@@ -2,7 +2,7 @@ earwax=>nrel_main_idtf:[ушная сера]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[earwax]
+  [earwax]
         (*
                 <-lang_en;;
         *);;

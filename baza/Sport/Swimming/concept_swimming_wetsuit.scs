@@ -6,7 +6,7 @@ concept_swimming_wetsuit=>nrel_main_idtf:[гидрокостюм]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_wetsuit]
+[swimming_wetsuit]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ detergent_for_carpets=>nrel_main_idtf:[моющее средство для ко
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[detergent for carpets]
+ [detergent for carpets]
         (*
                 <-lang_en;;
 *);;
@@ -28,7 +28,7 @@ detergent_for_carpets->rrel_example:vanish;;
 
 vanish<-sc_node_not_relation;;
 
-vanish=>nrel_main_idtf:nrel_main_idtf:[Vanish]
+vanish=>nrel_main_idtf: [vanish]
         (*
                 <-lang_en;;
 *);;

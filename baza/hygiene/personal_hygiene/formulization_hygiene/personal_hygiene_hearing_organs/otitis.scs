@@ -1,15 +1,15 @@
 otitis<-sc_node_not_relation;;
-otitis=>nrel_main_idtf:[отит]
+otitis=>nrel_main_idtf: [отит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[otitis]
+  [otitis]
         (*
                 <-lang_en;;
         *);;
 
 
-otitis=>nrel_unique_idtf:[AAxx](*<-lang_en;;*);;
+otitis=>nrel_unique_idtf: [otitis](*<-lang_en;;*);;
 
 otitis=>nrel_incubation_period:...
 (*

@@ -19,7 +19,7 @@ definition -> ...
 
 baltimore=>nrel_date_of_birth:[7 марта 1938 г.];;
 
-baltimore=>nrel_award:[Gustav Stern Award in Virology (1970)];[Warren Triennial Prize (1971)];[Международная премия Гайрднера (1974)];[Нобелевская премия по физиологии и медицине (1975)];[Behring-Heidelberger Prize Американской ассоциации иммунологов (1990)];[Sir Hans Krebs Medal[en] (1997)];[Национальная научная медаль США (1999)];[Warren Alpert Foundation Prize[en] (2000)];[Excellence in Mentoring Award Американской ассоциации иммунологов (2009)];;
+baltimore=>nrel_award:[Gustav Stern Award in Virology (1970)];[Warren Triennial Prize (1971)];[Международная премия Гайрднера (1974)];[Нобелевская премия по физиологии и медицине (1975)];[Behring-Heidelberger Prize Американской ассоциации иммунологов (1990)];[Sir Hans Krebs Medal(1997)];[Национальная научная медаль США (1999)];[Warren Alpert Foundation Prize(2000)];[Excellence in Mentoring Award Американской ассоциации иммунологов (2009)];;
 
 baltimore<-rrel_key_sc_element:...
 (*

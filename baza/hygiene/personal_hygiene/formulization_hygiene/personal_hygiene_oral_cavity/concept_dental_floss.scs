@@ -4,11 +4,11 @@ concept_dental_floss=>nrel_main_idtf:[зубная нить]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[dental floss]
+ [dental floss]
         (*
                 <-lang_en;;
         *);;
-concept_dental_floss=>nrel_idtf:[флосс]
+concept_dental_floss=>nrel_idtf: [флосс]
 (*
                 <-lang_ru;;
         *);;
@@ -67,7 +67,7 @@ waxed=>nrel_main_idtf:[вощённая]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[waxed]
+  [waxed]
         (*
                 <-lang_en;;
         *);;
@@ -76,7 +76,7 @@ unwaxed=>nrel_main_idtf:[невощённая]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[unwaxed]
+ [unwaxed]
         (*
                 <-lang_en;;
         *);;

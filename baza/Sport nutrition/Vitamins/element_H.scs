@@ -4,7 +4,7 @@ element_H =>nrel_main_idtf:[водород]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hydrogen]
+[hydrogen]
         (*
                 <-lang_en;;
         *);;

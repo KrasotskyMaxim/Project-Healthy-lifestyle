@@ -4,7 +4,7 @@ concept_swimming_starting_block=>nrel_main_idtf:[стартовая тумба �
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_starting_block]
+[swimming_starting_block]
         (*
                 <-lang_en;;
         *);;

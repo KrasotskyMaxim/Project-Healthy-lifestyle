@@ -3,7 +3,7 @@ specialistic_company=>nrel_main_idtf:[специальные компании д
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[special companies for housekeeping]
+ [special companies for housekeeping]
         (*
                 <-lang_en;;
 *);;

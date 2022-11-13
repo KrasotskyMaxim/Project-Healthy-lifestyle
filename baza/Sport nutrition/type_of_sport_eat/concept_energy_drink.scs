@@ -4,7 +4,7 @@ concept_energy_drink=>nrel_main_idtf:[энергетические напитк�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[energy drink]
+[energy drink]
         (*
                 <-lang_en;;
         *);;
@@ -13,7 +13,7 @@ concept_energy_drink=>nrel_idtf:[энергетик]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf:[энерготоники]
+[энерготоники]
         (*
                 <-lang_ru;;
         *);;

@@ -4,7 +4,7 @@ concept_sport_eat=>nrel_main_idtf:[спортивное питание]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[bodybuilding supplement]
+[bodybuilding supplement]
         (*
                 <-lang_en;;
         *);;

@@ -7,11 +7,6 @@ nrel_susceptibility => nrel_main_idtf: [восприимчивость*](*<- lan
 nrel_susceptibility => nrel_main_idtf: [susceptibility*](*<- lang_en;;*);;
 
 
-nrel_develop<-sc_node_norole_relation;;
-nrel_develop => nrel_main_idtf: [разрабатывать*](*<- lang_ru;;*);;
-nrel_develop => nrel_main_idtf: [develop*](*<- lang_en;;*);;
-
-
 nrel_intention<-sc_node_norole_relation;;
 nrel_intention => nrel_main_idtf: [намерение*](*<- lang_ru;;*);;
 nrel_intention => nrel_main_idtf: [intention*](*<- lang_en;;*);;

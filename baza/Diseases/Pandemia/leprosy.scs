@@ -1,6 +1,6 @@
 leprosy=>nrel_main_idtf:[лепра]
 (*<-lang_ru;;*);
-nrel_main_idtf:[leprosy](*<-lang_en;;*);;
+[leprosy](*<-lang_en;;*);;
 
 concept_epiemic->leprosy;;
 leprosy<-concept_disease;;
@@ -9,7 +9,7 @@ leprosy=>nrel_idtf:[проказа]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf: [hansen's disease]
+[hansen's disease]
         (*
                 <-lang_ru;;
         *);;
@@ -135,7 +135,7 @@ Elimination of leprosy as public health problem (defined as a registered prevale
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[6 months]
+[6 months]
         (*
                 <-lang_en;;
         *);;
@@ -145,7 +145,7 @@ nrel_main_idtf:[6 months]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[10 years]
+[10 years]
         (*
                 <-lang_en;;
         *);;
@@ -162,7 +162,7 @@ XIII=>nrel_main_idtf:[8 век]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[8 century]
+[8 century]
         (*
                 <-lang_en;;
         *);;
@@ -173,7 +173,7 @@ XVI=>nrel_main_idtf:[9 век]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[9 century]
+[9 century]
         (*
                 <-lang_en;;
         *);;

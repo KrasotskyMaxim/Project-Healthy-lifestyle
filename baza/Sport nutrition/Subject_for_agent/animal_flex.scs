@@ -1,5 +1,5 @@
 animal_flex=>
-nrel_main_idtf:[Animal Flex]
+[Animal Flex]
         (*
                 <-lang_ru;;
         *);;
@@ -41,19 +41,19 @@ joint_lubrication_complex;
 joint_support_complex;;
 
 joint_construction_complex=>
-nrel_main_idtf:[комплекс для восстановления суставов]
+[комплекс для восстановления суставов]
         (*
                 <-lang_ru;;
         *);; 
 
 joint_lubrication_complex=>
-nrel_main_idtf:[комплекс для смазки суставов]
+[комплекс для смазки суставов]
         (*
                 <-lang_ru;;
         *);;
         
 joint_support_complex=>
-nrel_main_idtf:[комплекс для поддержания здоровья суставов]
+[комплекс для поддержания здоровья суставов]
         (*
                 <-lang_ru;;
         *);;         

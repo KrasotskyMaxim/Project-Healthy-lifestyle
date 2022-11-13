@@ -5,7 +5,7 @@ concept_archery_poison=>nrel_main_idtf:[яд лучника]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[archery poison]
+[archery poison]
         (*
                 <-lang_en;;
         *);;

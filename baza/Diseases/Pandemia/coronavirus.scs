@@ -1,6 +1,6 @@
 coronavirus=>nrel_main_idtf:[коронавирусная инфекция]
 (*<-lang_ru;;*);
-nrel_main_idtf:[coronavirus](*<-lang_en;;*);;
+[coronavirus](*<-lang_en;;*);;
 
 concept_epiemic->coronavirus;;
 coronavirus<-concept_disease;;
@@ -9,7 +9,7 @@ coronavirus=>nrel_idtf:[коронавирус]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf: [COVID-19]
+[COVID-19]
         (*
                 <-lang_ru;;
         *);;
@@ -115,7 +115,7 @@ The WHO, the Chinese National Health Commission, and the United States' National
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[5,1 days]
+[5,1 days]
         (*
                 <-lang_en;;
         *);;
@@ -125,7 +125,7 @@ nrel_main_idtf:[5,1 days]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[11,5 days]
+[11,5 days]
         (*
                 <-lang_en;;
         *);;
@@ -142,7 +142,7 @@ unknown=>nrel_main_idtf:[неизвестно]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[unknown]
+[unknown]
         (*
                 <-lang_en;;
         *);;

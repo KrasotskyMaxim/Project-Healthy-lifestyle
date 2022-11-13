@@ -3,7 +3,7 @@ external_spilled_otitis_media=>nrel_main_idtf:[наружный разлитой
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[external spilled otitis]
+ [external spilled otitis]
         (*
                 <-lang_en;;
         *);;

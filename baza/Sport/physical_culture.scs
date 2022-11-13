@@ -72,9 +72,6 @@ nrel_develop=>nrel_main_idtf:
 sc_node_not_relation->nrel_reflect;;
 nrel_reflect=>nrel_main_idtf:
 [отражать*](* <-lang_ru;; *);;
-sc_node_not_relation->nrel_use;;
-nrel_use=>nrel_main_idtf:
-[использовать*](* <-lang_ru;; *);;
 sc_node_not_relation->concept_society;;
 concept_society=>nrel_main_idtf:
 [общество](* <-lang_ru;; *);;

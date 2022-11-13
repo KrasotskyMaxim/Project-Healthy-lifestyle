@@ -1,6 +1,5 @@
 nrel_sport_role
 
-<-sc_node_not_relation;
 => nrel_main_idtf:
 	[sport role*](*<-lang_en;;*);
 	[амплуа*](*<-lang_ru;;*);

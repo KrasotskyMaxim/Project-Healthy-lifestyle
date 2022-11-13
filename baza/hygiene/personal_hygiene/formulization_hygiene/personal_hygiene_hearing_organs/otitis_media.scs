@@ -3,7 +3,7 @@ otitis_media=>nrel_main_idtf:[cредний отит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[medium otitis]
+ [medium otitis]
         (*
                 <-lang_en;;
         *);;
@@ -43,7 +43,7 @@ hearing_loss=>nrel_main_idtf:[потеря слуха]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hearing loss]
+ [hearing loss]
         (*
                 <-lang_en;;
         *);;
@@ -52,7 +52,7 @@ ear_discharge=>nrel_main_idtf:[повреждение уха-разрыв бар
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[ear discharge]
+ [ear discharge]
         (*
                 <-lang_en;;
         *);;
@@ -62,7 +62,7 @@ sensation_of_splashing_in_the_ear=>nrel_main_idtf:[шум воды в ухе]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[sensation of splashing in the ear]
+ [sensation of splashing in the ear]
         (*
                 <-lang_en;;
         *);;
@@ -72,7 +72,7 @@ general_weakness=>nrel_main_idtf:[общая усталость]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[general weakness]
+ [general weakness]
         (*
                 <-lang_en;;
         *);;
@@ -81,7 +81,7 @@ sleep_disturbance=>nrel_main_idtf:[нарушение сна]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[sleep disturbance]
+ [sleep disturbance]
         (*
                 <-lang_en;;
         *);;
@@ -90,7 +90,7 @@ lack_of_appetite=>nrel_main_idtf:[отсутствие аппетита]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[lack of appetite]
+ [lack of appetite]
         (*
                 <-lang_en;;
         *);;

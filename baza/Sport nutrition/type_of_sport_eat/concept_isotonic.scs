@@ -83,7 +83,7 @@ concept_creatine_monohydrate=>nrel_main_idtf:[жидкий изотоник]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[liquid isotonic]
+[liquid isotonic]
         (*
                 <-lang_en;;
         *);;
@@ -94,7 +94,7 @@ concept_creatine_anhydrate=>nrel_main_idtf:[изотоник в порошке]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[powdered isotonic]
+[powdered isotonic]
         (*
                 <-lang_en;;
         *);;
@@ -117,7 +117,7 @@ concept_electrolytes=>nrel_main_idtf:[электролиты]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[electrolytes]
+[electrolytes]
         (*
                 <-lang_en;;
         *);;
@@ -128,7 +128,7 @@ concept_sugar=>nrel_main_idtf:[сахар]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[sugar]
+[sugar]
         (*
                 <-lang_en;;
         *);;       
@@ -137,7 +137,7 @@ concept_salt=>nrel_main_idtf:[соль]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[salt]
+[salt]
         (*
                 <-lang_en;;
         *);;   
@@ -146,7 +146,7 @@ concept_antioxidant=>nrel_main_idtf:[антиоксидант]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[antioxidant]
+[antioxidant]
         (*
                 <-lang_en;;
         *);;   

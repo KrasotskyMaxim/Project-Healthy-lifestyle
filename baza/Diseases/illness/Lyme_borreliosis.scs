@@ -2,16 +2,16 @@ concept_lyme_borreliosis<-sc_node_not_relation;;
 concept_lyme_borreliosis => nrel_main_idtf: [Болезнь Лайма](*<- lang_ru;;*);;
 concept_lyme_borreliosis => nrel_main_idtf: [Lyme borreliosis](*<- lang_en;;*);;
 
-concept_lyme_borreliosis<-sc_node_norole_relation;
+nrel_concept_lyme_borreliosis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C1G](*<-lang_en;;*);;
-concept_lyme_borreliosis<-sc_node_norole_relation;
+nrel_concept_lyme_borreliosis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C1G](*<-lang_ru;;*);;
 
 concept_lyme_borreliosis<-concept_disease;;
 
 concept_subClassOf01_07=>nrel_inclusion:concept_lyme_borreliosis;;
 
-concept_lyme_borreliosis<-sc_node_norole_relation;
+nrel_concept_lyme_borreliosis<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[2 days](*<-lang_en;;*);;

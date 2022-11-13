@@ -3,12 +3,12 @@ concept_otorhinolaryngolog=>nrel_main_idtf:[оториноларинголог]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[otorhinolaryngolog]
+ [otorhinolaryngolog]
         (*
                 <-lang_en;;
         *);;
 
-concept_otorhinolaryngolog=>nrel_idtf:[ЛОР]
+concept_otorhinolaryngolog=>nrel_idtf: [лор]
 (*
                 <-lang_ru;;
         *);;

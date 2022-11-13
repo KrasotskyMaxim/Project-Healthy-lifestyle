@@ -2,7 +2,7 @@ premolar=>nrel_main_idtf:[премоляр]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[premolar]
+ [premolar]
         (*
                 <-lang_en;;
         *);;

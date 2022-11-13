@@ -6,13 +6,13 @@ concept_tetanus=>nrel_mortality:[Коэффициент летальности �
 
 concept_subClassOf01_07=>nrel_inclusion:concept_tetanus;;
 
-concept_tetanus<-sc_node_norole_relation;
+nrel_concept_tetanus<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C13](*<-lang_en;;*);;
-concept_tetanus<-sc_node_norole_relation;
+nrel_concept_tetanus<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C13](*<-lang_ru;;*);;
 
 
-concept_tetanus<-sc_node_norole_relation;
+nrel_concept_tetanus<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[3 days](*<-lang_en;;*);;

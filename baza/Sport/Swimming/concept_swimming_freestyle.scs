@@ -5,7 +5,7 @@ concept_swimming_freestyle=>nrel_main_idtf:[вольный стиль]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_freestyle]
+[swimming_freestyle]
         (*
                 <-lang_en;;
         *);;

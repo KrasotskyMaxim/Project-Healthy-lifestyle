@@ -4,7 +4,7 @@ cupana =>nrel_main_idtf:[гуарана]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[cupana]
+[cupana]
         (*
                 <-lang_en;;
         *);;

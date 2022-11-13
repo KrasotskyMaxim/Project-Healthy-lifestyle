@@ -28,5 +28,3 @@ section_subject_domain_of_eye_parameters
 		subject_domain_of_eye_parameters;;
 		
 
-
-section_subject_domain_of_eye_parameters = [*^"file://subject_domain_of_eye_parameters.scs"*];;

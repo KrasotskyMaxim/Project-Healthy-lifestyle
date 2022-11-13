@@ -5,7 +5,7 @@ concept_one_sided_breathing=>nrel_main_idtf:[одностороннее дыха
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[one_sided_breathing]
+[one_sided_breathing]
         (*
                 <-lang_en;;
         *);;

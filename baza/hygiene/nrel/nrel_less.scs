@@ -1,14 +1,14 @@
 nrel_less
 <- sc_node_norole_relation;;
-nrel_less=>nrel_main_idtf:[меньше*]
+nrel_less=>nrel_main_idtf: [меньше]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[less*]
+ [less]
         (*
                 <-lang_en;;
         *);
-nrel_idtf:[не в такой мере*]
+[не в такой мере]
         (*
                 <-lang_ru;;
         *);;

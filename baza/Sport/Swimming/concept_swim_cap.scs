@@ -6,7 +6,7 @@ concept_swim_cap=>nrel_main_idtf:[шапочка для плавания]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swim_cap]
+[swim_cap]
         (*
                 <-lang_en;;
         *);;

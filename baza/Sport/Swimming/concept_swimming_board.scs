@@ -7,7 +7,7 @@ concept_swimming_board=>nrel_main_idtf:[доска для плавания]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_board]
+[swimming_board]
         (*
                 <-lang_en;;
         *);;

@@ -5,7 +5,7 @@ concept_tong_ah=>nrel_main_idtf:[тонга]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[tong-ah]
+[tong-ah]
         (*
                 <-lang_en;;
         *);;

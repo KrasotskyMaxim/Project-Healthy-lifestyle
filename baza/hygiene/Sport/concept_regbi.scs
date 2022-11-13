@@ -1,10 +1,10 @@
 concept_rugby
 <- sc_node_not_relation;;
-concept_rugby=>nrel_main_idtf:[регби]
+concept_rugby=>nrel_main_idtf: [регби]
 	(*
 		<-lang_ru;;
 	*);
-nrel_main_idtf:[rugby]
+ [rugby]
 	(*
 		<-lang_en;;
 	*);;

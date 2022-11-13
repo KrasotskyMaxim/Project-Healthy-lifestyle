@@ -5,7 +5,7 @@ concept_arm_guard=>nrel_main_idtf:[защита руки]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[arm guard]
+[arm guard]
         (*
                 <-lang_en;;
         *);;

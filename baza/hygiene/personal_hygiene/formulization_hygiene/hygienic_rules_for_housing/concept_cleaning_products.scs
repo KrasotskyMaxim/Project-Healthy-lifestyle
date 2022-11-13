@@ -4,7 +4,7 @@ concept_cleaning_product=>nrel_main_idtf:[чистящее средство]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[cleaning product]
+ [cleaning product]
         (*
                 <-lang_en;;
 *);;

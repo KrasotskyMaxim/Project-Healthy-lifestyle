@@ -2,7 +2,7 @@ clean_furniture_and_carpets=>nrel_main_idtf:[чистить мягкую меб�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[clean furniture and carpets]
+ [clean furniture and carpets]
         (*
                 <-lang_en;;
 *);;

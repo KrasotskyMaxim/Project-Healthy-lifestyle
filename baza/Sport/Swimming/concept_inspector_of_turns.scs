@@ -4,7 +4,7 @@ concept_inspector_of_turns=>nrel_main_idtf:[судья на повороте]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[inspector_of_turns]
+[inspector_of_turns]
         (*
                 <-lang_en;;
         *);;

@@ -3,7 +3,7 @@ labyrinthitis=>nrel_main_idtf:[лабиринтит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[labyrinthitis]
+ [labyrinthitis]
         (*
                 <-lang_en;;
         *);;
@@ -55,7 +55,7 @@ loud_tinnitus=>nrel_main_idtf:[сильный шум в ушах]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[loud tinnitus]
+ [loud tinnitus]
         (*
                 <-lang_en;;
         *);;
@@ -64,7 +64,7 @@ hearing_loss_up_to_hearing_loss=>nrel_main_idtf:[снижается слух в�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hearing loss up to hearing loss]
+ [hearing loss up to hearing loss]
         (*
                 <-lang_en;;
         *);;
@@ -73,16 +73,16 @@ severe_dizziness=>nrel_main_idtf:[сильное головокружение]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[severe dizziness]
+ [severe dizziness]
         (*
                 <-lang_en;;
         *);;
 
-vomiting=>nrel_main_idtf:[рвота]
+vomiting=>nrel_main_idtf: [рвота]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[vomiting]
+ [vomiting]
         (*
                 <-lang_en;;
         *);;
@@ -91,9 +91,9 @@ out_of_balance=>nrel_main_idtf:[нарушается равновесие – н
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[disturbed balance - instability when walking.]
+ [disturbed balance - instability when walking.]
         (*
                 <-lang_en;;
         *);;
 
-labyrinthitis=>nrel_unique_idtf:[AB30.1](*<-lang_en;;*);;
+labyrinthitis=>nrel_unique_idtf: [labyrinthitis](*<-lang_en;;*);;

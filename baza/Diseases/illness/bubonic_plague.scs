@@ -3,15 +3,15 @@ concept_bubonic_plague=> nrel_main_idtf: [бубонная чума](*<- lang_ru
 concept_bubonic_plague=> nrel_main_idtf: [bubonic plague](*<- lang_en;;*);;
 
 
-concept_bubonic_plague<-sc_node_norole_relation;
+nrel_concept_bubonic_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93.0](*<-lang_en;;*);;
-concept_bubonic_plague<-sc_node_norole_relation;
+nrel_concept_bubonic_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93.0](*<-lang_ru;;*);;
 
 concept_bubonic_plague<-concept_disease;;
 
 
-concept_bubonic_plague<-sc_node_norole_relation;
+nrel_concept_bubonic_plague<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[1 day](*<-lang_en;;*);;

@@ -1,10 +1,10 @@
 concept_berry
 <- sc_node_not_relation;;
-concept_berry=>nrel_main_idtf:[ягода]
+concept_berry=>nrel_main_idtf: [ягода]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[berry]
+ [berry]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ concept_front_wave=>nrel_main_idtf:[передняя волна]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[front_wave]
+[front_wave]
         (*
                 <-lang_en;;
         *);;

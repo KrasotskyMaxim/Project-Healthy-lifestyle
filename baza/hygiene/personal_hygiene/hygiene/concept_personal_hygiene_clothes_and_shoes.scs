@@ -4,7 +4,7 @@ concept_personal_hygiene_clothes_and_shoes=>nrel_main_idtf:[личная гиг�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[personal hygiene clothes and shoes]
+[personal hygiene clothes and shoes]
         (*
                 <-lang_en;;
         *);;

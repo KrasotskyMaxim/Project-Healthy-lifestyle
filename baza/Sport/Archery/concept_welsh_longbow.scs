@@ -5,7 +5,7 @@ concept_welsh_longbow=>nrel_main_idtf:[валлийский длинный лу�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[welsh_longbow]
+[welsh_longbow]
         (*
                 <-lang_en;;
         *);;

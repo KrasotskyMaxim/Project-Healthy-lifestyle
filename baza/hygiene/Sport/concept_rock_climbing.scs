@@ -4,7 +4,7 @@ concept_rock_climbing=>nrel_main_idtf:[cкалолазание]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[rock climbing]
+[rock climbing]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ concept_weightlifting=>nrel_main_idtf:[тяжёлая атлетика]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[weightlifting]
+[weightlifting]
         (*
                 <-lang_en;;
         *);;

@@ -5,7 +5,7 @@ concept_dry_swimming=>nrel_main_idtf:[сухое плавание]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[dry_swimming]
+[dry_swimming]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ concept_vitamin_complexes=>nrel_main_idtf:[биологически значим
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mineral nutrient]
+[mineral nutrient]
         (*
                 <-lang_en;;
         *);;

@@ -2,7 +2,7 @@ scrubbing_brush=>nrel_main_idtf:[жесткая щётка]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[scrubbing brush]
+ [scrubbing brush]
         (*
                 <-lang_en;;
         *);;

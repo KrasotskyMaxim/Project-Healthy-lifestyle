@@ -2,7 +2,7 @@ regular_wet_cleaning=>nrel_main_idtf:[регулярная влажная убо
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[regular wet cleaning]
+ [regular wet cleaning]
         (*
                 <-lang_en;;
 *);;

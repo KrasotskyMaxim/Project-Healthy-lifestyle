@@ -2,7 +2,7 @@ Ukraine=>nrel_main_idtf:[Украина]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Ukraine]
+[Ukraine]
         (*
                 <-lang_en;;
         *);;

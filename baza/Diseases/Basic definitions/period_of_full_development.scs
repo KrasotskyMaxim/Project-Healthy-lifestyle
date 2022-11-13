@@ -41,5 +41,5 @@ nrel_period_of_full_development<-rrel_key_sc_element:...
 nrel_period_of_full_development<-binary_relation;;
 parameter->arity;;
 arity->binary_relation;;
-binary_relation=>nrel_measurement:2;;
+nrel_binary_relation=>nrel_measurement:2;;
 2<-number;;

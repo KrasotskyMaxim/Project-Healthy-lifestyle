@@ -4,7 +4,7 @@ concept_fat_burners=>nrel_main_idtf:[жиросжигатели]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[fat burner]
+[fat burner]
         (*
                 <-lang_en;;
         *);;
@@ -71,7 +71,7 @@ concept_l_carnitine=>nrel_main_idtf:[L-Карнитин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[L-carnitine]
+[L-carnitine]
         (*
                 <-lang_en;;
         *);;
@@ -82,7 +82,7 @@ concept_thermogenic_fat_burners=>nrel_main_idtf:[Термогенные жиро
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Thermogenic fat burners]
+[Thermogenic fat burners]
         (*
                 <-lang_en;;
         *);;
@@ -93,7 +93,7 @@ concept_diuretics=>nrel_main_idtf:[Диуретики]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Diuretics]
+[Diuretics]
         (*
                 <-lang_en;;
         *);;
@@ -104,7 +104,7 @@ concept_calorie_and_appetite_blockers=>nrel_main_idtf:[Блокаторы кал
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Calorie and appetite blockers]
+[Calorie and appetite blockers]
         (*
                 <-lang_en;;
         *);;

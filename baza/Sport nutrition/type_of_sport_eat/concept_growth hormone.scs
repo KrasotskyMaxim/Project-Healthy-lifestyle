@@ -4,7 +4,7 @@ concept_growth_hormone=>nrel_main_idtf:[гормон роста]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[growth hormone]
+[growth hormone]
         (*
                 <-lang_en;;
         *);;
@@ -13,7 +13,7 @@ concept_growth_hormone=>nrel_idtf:[СТГ]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf:[соматропин]
+[соматропин]
  (*
                 <-lang_ru;;
         *);;

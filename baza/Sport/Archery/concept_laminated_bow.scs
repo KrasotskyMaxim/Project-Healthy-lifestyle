@@ -5,7 +5,7 @@ concept_composite_bow=>nrel_main_idtf:[композитный лук]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[laminated bow]
+[laminated bow]
         (*
                 <-lang_en;;
         *);;

@@ -2,7 +2,7 @@ regular_ventilate_the_room=>nrel_main_idtf:[регулярно проветри�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[regular ventilate the room]
+ [regular ventilate the room]
         (*
                 <-lang_en;;
 *);;

@@ -5,7 +5,7 @@ concept_flu_flu_arrow=>nrel_main_idtf:[стрела флу флу]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[flu flu arrow]
+[flu flu arrow]
         (*
                 <-lang_en;;
         *);;

@@ -1,5 +1,5 @@
 wtf_labz_puft_man=>
-nrel_main_idtf:[WTF Labz Puft Man]
+[WTF Labz Puft Man]
         (*
                 <-lang_ru;;
         *);;
@@ -35,13 +35,13 @@ amentoflavone;
 vitamin_C;;
 
 amentoflavone=>
-nrel_main_idtf:[Amentoflavone]
+[Amentoflavone]
         (*
                 <-lang_ru;;
         *);;
         
 hydromax=>
-nrel_main_idtf:[Hydromax]
+[Hydromax]
         (*
                 <-lang_ru;;
         *);;

@@ -5,7 +5,7 @@ concept_hygroscopic_cotton_wool=>nrel_main_idtf:[гигроскопическа�
                 <-lang_ru;;
         *);
 
-nrel_main_idtf:[hygroscopic сotton wool]
+ [hygroscopic сotton wool]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ concept_testosterone=>nrel_main_idtf:[тестостероные добавки]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[testosterone]
+[testosterone]
         (*
                 <-lang_en;;
         *);;
@@ -14,7 +14,7 @@ concept_testosterone=>nrel_idtf:[тестостероные бустеры]
                 <-lang_ru;;
         *);
 
-nrel_idtf:[БАДы]
+[БАДы]
         (*
                 <-lang_ru;;
         *);;

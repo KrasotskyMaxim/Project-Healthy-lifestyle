@@ -2,7 +2,7 @@ document_indexing=>nrel_main_idtf:[индексация документов]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[document indexing]
+ [document indexing]
         (*
                 <-lang_en;;
         *);;

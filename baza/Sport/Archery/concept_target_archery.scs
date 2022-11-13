@@ -5,7 +5,7 @@ concept_archery_target=>nrel_main_idtf:[мишень лучника]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[archery target]
+[archery target]
         (*
                 <-lang_en;;
         *);;

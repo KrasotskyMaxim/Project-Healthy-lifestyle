@@ -4,7 +4,7 @@ concept_swimming_starter=>nrel_main_idtf:[стартер]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_starter]
+[swimming_starter]
         (*
                 <-lang_en;;
         *);;

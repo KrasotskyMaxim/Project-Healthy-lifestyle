@@ -4,7 +4,7 @@ concept_high_protein_foods=>nrel_main_idtf:[высокобелковые про�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[high protein foods]
+[high protein foods]
         (*
                 <-lang_en;;
         *);;
@@ -13,7 +13,7 @@ concept_high_protein_foods=>nrel_idtf:[протеин]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf:[protein]
+[protein]
         (*
                 <-lang_en;;
         *);;

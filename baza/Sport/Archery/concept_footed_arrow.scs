@@ -5,7 +5,7 @@ concept_footed_arrow=>nrel_main_idtf:[стрела с опорой]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[footed arrow]
+[footed arrow]
         (*
                 <-lang_en;;
         *);;

@@ -5,7 +5,7 @@ concept_epiemic=>nrel_main_idtf:[эпидемия]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[epiemic]
+[epiemic]
         (*
                 <-lang_en;;
         *);;
@@ -14,12 +14,12 @@ concept_epiemic=>nrel_idtf:[пандемия]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf: [повальная болезнь]
+[повальная болезнь]
         (*
                 <-lang_ru;;
         *);
 
-nrel_idtf: [панзоотия]
+[панзоотия]
         (*
                 <-lang_ru;;
         *);;

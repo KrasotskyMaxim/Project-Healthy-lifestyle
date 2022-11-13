@@ -3,7 +3,7 @@ concept_wave_damper=>nrel_main_idtf:[волногаситель]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[wave_damper]
+[wave_damper]
         (*
                 <-lang_en;;
         *);;

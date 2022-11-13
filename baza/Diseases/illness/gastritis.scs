@@ -2,14 +2,14 @@ concept_gastritis<-sc_node_not_relation;;
 concept_gastritis => nrel_main_idtf: [гастрит](*<- lang_ru;;*);;
 concept_gastritis => nrel_main_idtf: [gastritis](*<- lang_en;;*);;
 
-concept_gastritis<-sc_node_norole_relation;
+nrel_concept_gastritis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[DA42](*<-lang_en;;*);;
-concept_gastritis<-sc_node_norole_relation;
+nrel_concept_gastritis<-sc_node_norole_relation;
 =>nrel_unique_idtf:[DA42](*<-lang_ru;;*);;
 
 concept_gastritis<-concept_disease;;
 
-concept_gastritis<-sc_node_norole_relation;
+nrel_concept_gastritis<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[6 days](*<-lang_en;;*);;

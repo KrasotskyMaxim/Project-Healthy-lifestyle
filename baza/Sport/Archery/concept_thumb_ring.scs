@@ -5,7 +5,7 @@ concept_thumb_ring=>nrel_main_idtf:[кольцо большого пальца]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[thumb_ring]
+[thumb_ring]
         (*
                 <-lang_en;;
         *);;

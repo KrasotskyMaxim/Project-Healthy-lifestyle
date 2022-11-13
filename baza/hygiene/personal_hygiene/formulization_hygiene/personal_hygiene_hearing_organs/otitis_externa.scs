@@ -3,7 +3,7 @@ otitis_externa=>nrel_main_idtf:[наружный отит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[externa otitis]
+ [externa otitis]
         (*
                 <-lang_en;;
         *);;
@@ -63,7 +63,7 @@ pus_from_the_ear=>nrel_main_idtf:[гной из уха]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[pus from the ear]
+ [pus from the ear]
         (*
                 <-lang_en;;
         *);;
@@ -72,7 +72,7 @@ hearing_is_preserved_or_impaired_with_complete_closure_of_the_external_auditory_
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hearing is preserved or impaired with complete closure of the external auditory canal]
+ [hearing is preserved or impaired with complete closure of the external auditory canal]
         (*
                 <-lang_en;;
         *);;
@@ -81,7 +81,7 @@ the_skin_of_the_ear_canal_is_hyperemic_and_swollen=>nrel_main_idtf:[кожа с�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[the skin of the ear canal is hyperemic (reddened) and swollen]
+ [the skin of the ear canal is hyperemic (reddened) and swollen]
         (*
                 <-lang_en;;
         *);;
@@ -90,7 +90,7 @@ throbbing_ear_pain=>nrel_main_idtf:[пульсирующая боль в ухе]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[throbbing ear pain]
+ [throbbing ear pain]
         (*
                 <-lang_en;;
         *);;

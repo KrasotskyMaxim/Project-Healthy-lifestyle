@@ -2,7 +2,7 @@ stopped_caries=>nrel_main_idtf:[приостановившийся кариес]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[stopped caries]
+ [stopped caries]
         (*
                 <-lang_en;;
         *);;

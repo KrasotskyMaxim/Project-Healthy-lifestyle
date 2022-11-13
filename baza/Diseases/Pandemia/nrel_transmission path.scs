@@ -2,8 +2,8 @@
 nrel_transmission_path
  <-sc_node_norole_relation;
 => nrel_main_idtf: 
-		 [передача заболевания*](*<- lang_ru;;*);
-		 [disease transmission*](*<- lang_en;;*);
+		 [передача заболевания](*<- lang_ru;;*);
+		 [disease transmission](*<- lang_en;;*);
 
 
 => nrel_first_domain: concept_desease;

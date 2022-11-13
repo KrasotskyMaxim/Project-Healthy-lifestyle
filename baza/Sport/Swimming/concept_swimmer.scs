@@ -6,7 +6,7 @@ concept_swimmer=>nrel_main_idtf:[пловец]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimmer]
+[swimmer]
         (*
                 <-lang_en;;
         *);;

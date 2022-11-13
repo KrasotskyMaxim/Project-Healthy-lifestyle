@@ -6,7 +6,7 @@ concept_non_sterile_cotton_wool=>nrel_main_idtf:[нестерильная ват
                 <-lang_ru;;
         *);
 
-nrel_main_idtf:[non sterile сotton wool]
+ [non sterile сotton wool]
         (*
                 <-lang_en;;
         *);;

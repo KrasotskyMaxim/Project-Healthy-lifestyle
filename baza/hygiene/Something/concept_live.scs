@@ -4,7 +4,7 @@ concept_live_activity=>nrel_main_idtf:[жизнедеятельность]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[live activity]
+[live activity]
         (*
                 <-lang_en;;
         *);;

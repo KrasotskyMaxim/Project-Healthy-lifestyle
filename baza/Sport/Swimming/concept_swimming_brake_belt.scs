@@ -6,7 +6,7 @@ concept_swimming_break_belt=>nrel_main_idtf:[пояс тормозной]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_break_belt]
+[swimming_break_belt]
         (*
                 <-lang_en;;
         *);;

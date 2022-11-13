@@ -4,7 +4,7 @@ concept_toothpaste=>nrel_main_idtf:[зубная паста]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[toothpaste]
+ [toothpaste]
         (*
                 <-lang_en;;
         *);;

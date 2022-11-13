@@ -4,7 +4,7 @@ concept_swimming_styles=>nrel_main_idtf:[стили плавания]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_styles]
+[swimming_styles]
         (*
                 <-lang_en;;
         *);;

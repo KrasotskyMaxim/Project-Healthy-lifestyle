@@ -22,7 +22,7 @@ concept_crossbow_shooting=>nrel_main_idtf:[стрельба из арбалет�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[crossbow shooting]
+[crossbow shooting]
         (*
                 <-lang_en;;
         *);;

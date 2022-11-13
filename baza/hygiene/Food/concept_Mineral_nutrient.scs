@@ -5,11 +5,11 @@ concept_mineral_nutrient=>nrel_main_idtf:[биогенные элементы]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Mineral nutrient]
+[Mineral nutrient]
         (*
                 <-lang_en;;
         *);
-nrel_idtf:[биологически значимые элементы]
+[биологически значимые элементы]
         (*
                 <-lang_ru;;
         *);;

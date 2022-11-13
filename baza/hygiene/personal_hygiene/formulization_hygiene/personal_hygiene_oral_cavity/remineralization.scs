@@ -4,7 +4,7 @@ remineralization=>nrel_main_idtf:[реминирализация]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[remineralization]
+ [remineralization]
         (*
                 <-lang_en;;
         *);;

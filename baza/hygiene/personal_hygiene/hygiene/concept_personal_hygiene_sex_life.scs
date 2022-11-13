@@ -4,7 +4,7 @@ concept_personal_hygiene_sex_life=>nrel_main_idtf:[гигиена половой
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hygiene sex life ]
+[hygiene sex life ]
         (*
                 <-lang_en;;
         *);;

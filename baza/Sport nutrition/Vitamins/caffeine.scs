@@ -4,7 +4,7 @@ caffeine=>nrel_main_idtf:[кофенин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[caffeine]
+[caffeine]
         (*
                 <-lang_en;;
         *);;

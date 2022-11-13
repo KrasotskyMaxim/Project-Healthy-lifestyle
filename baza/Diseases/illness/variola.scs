@@ -6,16 +6,16 @@ concept_variola => nrel_idtf: [натуральная оспа](*<- lang_ru;;*);
 concept_variola => nrel_idtf: [smallpox](*<- lang_en;;*);;
 
 
-concept_variola<-sc_node_norole_relation;
+nrel_concept_variola<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E70](*<-lang_en;;*);;
-concept_variola<-sc_node_norole_relation;
+nrel_concept_variola<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E70](*<-lang_ru;;*);;
 
 concept_variola<-concept_disease;;
 
 
 
-concept_variola<-sc_node_norole_relation;
+nrel_concept_variola<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[8 days](*<-lang_en;;*);;

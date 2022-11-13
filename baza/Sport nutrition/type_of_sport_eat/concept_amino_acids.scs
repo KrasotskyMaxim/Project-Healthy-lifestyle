@@ -4,7 +4,7 @@ concept_amino_acids=>nrel_main_idtf:[аминокислоты]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[amino acid]
+[amino acid]
         (*
                 <-lang_en;;
         *);;
@@ -13,7 +13,7 @@ concept_amino_acids=>nrel_idtf:[АМК]
         (*
                 <-lang_ru;;
         *);
-nrel_idtf:[аминокарбоновые кислоты]
+[аминокарбоновые кислоты]
  (*
                 <-lang_ru;;
         *);;
@@ -104,7 +104,7 @@ concept_irreplaceable_amino_acids=>nrel_main_idtf:[незаменимые ами
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[essential amino acids]
+[essential amino acids]
         (*
                 <-lang_en;;
         *);;
@@ -115,7 +115,7 @@ concept_replaceable_amino_acids=>nrel_main_idtf:[заменимые аминок
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[nonessential amino acids]
+[nonessential amino acids]
         (*
                 <-lang_en;;
         *);;
@@ -127,7 +127,7 @@ concept_own_amino_acids=>nrel_main_idtf:[аминокислоты,которые
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[amino acids that are produced in the body on its own]
+[amino acids that are produced in the body on its own]
         (*
                 <-lang_en;;
         *);;

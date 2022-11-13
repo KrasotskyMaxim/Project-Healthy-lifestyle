@@ -45,7 +45,7 @@ rrel_maximalPeriod<-sc_node_role_relation;
 nrel_incubation_period<-binary_relation;;
 parameter->arity;;
 arity->binary_relation;;
-binary_relation<-sc_node_norole_relation;
+nrel_binary_relation<-sc_node_norole_relation;
 =>nrel_measurement:2;;
 2<-number;;
 nrel_incubation_period<-oriented_relation;;

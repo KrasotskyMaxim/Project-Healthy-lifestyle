@@ -2,7 +2,7 @@ dandruff=>nrel_main_idtf:[перхоть]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[dandruff]
+[dandruff]
         (*
                 <-lang_en;;
         *);;

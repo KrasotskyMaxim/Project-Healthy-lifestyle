@@ -5,7 +5,7 @@ concept_safety_arrow=>nrel_main_idtf:[стрела безопасности]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[safety arrow]
+[safety arrow]
         (*
                 <-lang_en;;
         *);;

@@ -27,5 +27,3 @@ section_subject_domain_of_vision
 		concept_monocular_vision;;
 		
 
-
-section_subject_domain_of_vision = [*^"file://subject_domain_of_vision.scs"*];;

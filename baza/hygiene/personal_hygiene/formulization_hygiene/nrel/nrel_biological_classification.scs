@@ -1,12 +1,12 @@
 nrel_classification_biological
 <- sc_node_norole_relation;
 => nrel_main_idtf: 
-	[биологическая классификация*] 
+	[биологическая классификация] 
 	(* 
 	<- lang_ru;; 
 	*);
 => nrel_main_idtf: 
-	[biological classification*] 
+	[biological classification] 
 	(* 
 	<- lang_en;; 
 	*);
@@ -45,8 +45,8 @@ concept_plants;
 concept_animals;;
 
 concept_virus<-sc_node_not_relation;
-=> nrel_main_idtf: 
-	[вирусы] 
+=> nrel_main_idtf: [вирус]
+	  
 	(* 
 	<- lang_ru;; 
 	*);
@@ -69,8 +69,8 @@ concept_bacteria<-sc_node_not_relation;
 	*);;
 
 concept_mushrooms<-sc_node_not_relation;
-=> nrel_main_idtf: 
-	[грибы] 
+=> nrel_main_idtf: [гриб]
+	  
 	(* 
 	<- lang_ru;; 
 	*);
@@ -86,8 +86,8 @@ concept_plants<-sc_node_not_relation;
 	(* 
 	<- lang_ru;; 
 	*);
-=> nrel_main_idtf: 
-	[plants] 
+=> nrel_main_idtf: []
+	  
 	(* 
 	<- lang_en;; 
 	*);;

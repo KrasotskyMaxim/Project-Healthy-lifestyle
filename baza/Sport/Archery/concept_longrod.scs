@@ -5,7 +5,7 @@ concept_longrod=>nrel_main_idtf:[лонгрод]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[longrod]
+[longrod]
         (*
                 <-lang_en;;
         *);;

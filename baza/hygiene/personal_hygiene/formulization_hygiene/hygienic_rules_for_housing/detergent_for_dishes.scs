@@ -4,7 +4,7 @@ detergent_for_dishes=>nrel_main_idtf:[моющее средство для по�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[detergent for dishes]
+ [detergent for dishes]
         (*
                 <-lang_en;;
 *);;
@@ -29,7 +29,7 @@ detergent_for_dishes->rrel_example:frosh;;
 
 frosh<-sc_node_not_relation;;
 
-frosh=>nrel_main_idtf:nrel_main_idtf:[Frosh]
+frosh=>nrel_main_idtf: [frosh] 
         (*
                 <-lang_en;;
 *);;

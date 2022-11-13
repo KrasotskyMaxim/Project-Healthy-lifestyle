@@ -3,15 +3,15 @@ Belarus=>nrel_main_idtf:[Республика Беларусь]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[Rebunlic of Belarus]
+[Rebunlic of Belarus]
         (*
                 <-lang_en;;
         *);
-        nrel_idtf:[Беларусь]
+        [Беларусь]
         (*
                 <-lang_ru;;
         *);
-        nrel_idtf:[Belarus]
+        [Belarus]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ concept_medley_relay=>nrel_main_idtf:[комбинированная эстаф�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[medley_relay]
+[medley_relay]
         (*
                 <-lang_en;;
         *);;

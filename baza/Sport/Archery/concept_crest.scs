@@ -4,7 +4,7 @@ concept_crest=>nrel_main_idtf:[крест]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[crest]
+[crest]
         (*
                 <-lang_en;;
         *);;

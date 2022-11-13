@@ -4,15 +4,15 @@ concept_hepatitis_E => nrel_main_idtf: [hepatitis E](*<- lang_en;;*);;
 
 
 
-concept_hepatitis_E<-sc_node_norole_relation;
+nrel_concept_hepatitis_E<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.4](*<-lang_en;;*);;
-concept_hepatitis_E<-sc_node_norole_relation;
+nrel_concept_hepatitis_E<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.4](*<-lang_ru;;*);;
 
 concept_hepatitis_E<-concept_disease;;
 
 
-concept_hepatitis_E<-sc_node_norole_relation;
+nrel_concept_hepatitis_E<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[3 weeks](*<-lang_en;;*);;

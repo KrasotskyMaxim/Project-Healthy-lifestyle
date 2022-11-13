@@ -5,7 +5,7 @@ concept_hypoxic_breathing=>nrel_main_idtf:[гипоксическое дыхан
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hypoxic_breathing]
+[hypoxic_breathing]
         (*
                 <-lang_en;;
         *);;

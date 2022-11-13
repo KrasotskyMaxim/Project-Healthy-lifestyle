@@ -4,7 +4,7 @@ concept_bow_string=>nrel_main_idtf:[тетива]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[bow_string]
+[bow_string]
         (*
                 <-lang_en;;
         *);;

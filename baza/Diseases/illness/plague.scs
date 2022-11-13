@@ -3,16 +3,16 @@ concept_plague  => nrel_main_idtf: [чума](*<- lang_ru;;*);;
 concept_plague  => nrel_main_idtf: [plague](*<- lang_en;;*);;
 
 
-concept_plague<-sc_node_norole_relation;
+nrel_concept_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93](*<-lang_en;;*);;
-concept_plague<-sc_node_norole_relation;
+nrel_concept_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93](*<-lang_ru;;*);;
 
 concept_plague<-concept_disease;;
 
 
 
-concept_plague<-sc_node_norole_relation;
+nrel_concept_plague<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[2 days](*<-lang_en;;*);;

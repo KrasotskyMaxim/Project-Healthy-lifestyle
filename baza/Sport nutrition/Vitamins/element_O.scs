@@ -4,7 +4,7 @@ element_O =>nrel_main_idtf:[кислород]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[oxygen]
+[oxygen]
         (*
                 <-lang_en;;
         *);;

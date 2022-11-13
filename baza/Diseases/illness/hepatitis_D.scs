@@ -4,15 +4,15 @@ concept_hepatitis_D => nrel_main_idtf: [hepatitis D](*<- lang_en;;*);;
 
 
 
-concept_hepatitis_D<-sc_node_norole_relation;
+nrel_concept_hepatitis_D<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.3](*<-lang_en;;*);;
-concept_hepatitis_D<-sc_node_norole_relation;
+nrel_concept_hepatitis_D<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.3](*<-lang_ru;;*);;
 
 concept_hepatitis_D<-concept_disease;;
 
 
-concept_hepatitis_D<-sc_node_norole_relation;
+nrel_concept_hepatitis_D<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[21 days](*<-lang_en;;*);;

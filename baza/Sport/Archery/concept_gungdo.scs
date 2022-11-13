@@ -6,7 +6,7 @@ concept_gungdo=>nrel_main_idtf:[гюнгдо]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[gungdo]
+[gungdo]
         (*
                 <-lang_en;;
         *);;

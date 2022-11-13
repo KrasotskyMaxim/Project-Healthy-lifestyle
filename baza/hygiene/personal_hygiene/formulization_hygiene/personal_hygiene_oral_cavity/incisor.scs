@@ -1,8 +1,8 @@
-incisor=>nrel_main_idtf:[резцы]
+incisor=>nrel_main_idtf: [резец]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[incisor]
+ [incisor]
         (*
                 <-lang_en;;
         *);;

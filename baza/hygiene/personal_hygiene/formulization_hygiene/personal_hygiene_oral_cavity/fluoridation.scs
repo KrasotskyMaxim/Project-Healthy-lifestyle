@@ -4,7 +4,7 @@ fluoridation=>nrel_main_idtf:[фторирование]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[fluoridation]
+ [fluoridation]
         (*
                 <-lang_en;;
         *);;

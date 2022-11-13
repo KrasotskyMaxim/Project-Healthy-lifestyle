@@ -4,7 +4,7 @@ concept_stroke_rate=>nrel_main_idtf:[частота гребка]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[stroke_rate]
+[stroke_rate]
         (*
                 <-lang_en;;
         *);;

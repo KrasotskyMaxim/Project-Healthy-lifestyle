@@ -19,7 +19,7 @@ concept_bow_hunting=>nrel_main_idtf:[охота с луком]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[bow hunting]
+[bow hunting]
         (*
                 <-lang_en;;
         *);;

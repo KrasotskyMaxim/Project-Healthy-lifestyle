@@ -2,7 +2,7 @@ cholesterol=>nrel_main_idtf:[холестерин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[cholesterol]
+[cholesterol]
         (*
                 <-lang_en;;
         *);;

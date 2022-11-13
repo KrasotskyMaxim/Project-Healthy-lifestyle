@@ -4,7 +4,7 @@ concept_personal_hygiene=>nrel_main_idtf:[личная гигиена]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[personal hygiene]
+[personal hygiene]
         (*
                 <-lang_en;;
         *);;

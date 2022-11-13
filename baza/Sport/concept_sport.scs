@@ -5,9 +5,6 @@ winter_sport=>nrel_main_idtf:
 sc_node_norole_relation->summer_sport;;
 summer_sport=>nrel_main_idtf:
 [Летние виды спорта](* <-lang_ru;; *);;
-sc_node_norole_relation->olimpic_sport;;
-olimpic_sport=>nrel_main_idtf:
-[Олимпийские виды спорта](* <-lang_ru;; *);;
 sc_node_norole_relation->team_sport;;
 team_sport=>nrel_main_idtf:
 [Командные виды спорта](* <-lang_ru;; *);;

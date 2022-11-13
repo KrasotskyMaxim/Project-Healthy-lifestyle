@@ -47,4 +47,3 @@ section_subject_domain_of_eye_structure
 	concept_tear;
 	nrel_eye_component;;
 
-section_subject_domain_of_eye_structure = [*^"file://subject_domain_of_eye_structure.scs"*];;

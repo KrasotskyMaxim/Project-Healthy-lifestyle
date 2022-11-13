@@ -4,7 +4,7 @@ concept_long_course=>nrel_main_idtf:[длинная вода]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[long_course]
+[long_course]
         (*
                 <-lang_en;;
         *);;

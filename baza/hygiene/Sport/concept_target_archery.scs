@@ -4,7 +4,7 @@ concept_target_archery=>nrel_main_idtf:[cтрельба из лука]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[target archery]
+[target archery]
         (*
                 <-lang_en;;
         *);;

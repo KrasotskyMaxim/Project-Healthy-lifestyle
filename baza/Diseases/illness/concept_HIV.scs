@@ -2,16 +2,16 @@ concept_HIV<-sc_node_not_relation;;
 concept_HIV  => nrel_main_idtf: [ВИЧ](*<- lang_ru;;*);;
 concept_HIV  => nrel_main_idtf: [hiv](*<- lang_en;;*);;
 
-concept_HIV<-sc_node_norole_relation;
+nrel_concept_HIV<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C62](*<-lang_en;;*);;
-concept_HIV<-sc_node_norole_relation;
+nrel_concept_HIV<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1C62](*<-lang_ru;;*);;
 
 concept_HIV<-concept_disease;;
 
 concept_HIV=>nrel_mortality:[Коэффициент летальности достигает до 15%-40%.];;
 
-concept_HIV<-sc_node_norole_relation;
+nrel_concept_HIV<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[1,5 months](*<-lang_en;;*);;

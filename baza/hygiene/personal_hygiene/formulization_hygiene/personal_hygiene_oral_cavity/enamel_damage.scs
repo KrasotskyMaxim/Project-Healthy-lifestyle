@@ -2,7 +2,7 @@ enamel_damage=>nrel_main_idtf:[повреждение эмали]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[enamel damage]
+ [enamel damage]
         (*
                 <-lang_en;;
         *);;

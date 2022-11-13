@@ -4,7 +4,7 @@ concept_personal_hygiene_hearing_organs=>nrel_main_idtf:[гигиена орга
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hygiene hearing organs]
+[hygiene hearing organs]
         (*
                 <-lang_en;;
         *);;

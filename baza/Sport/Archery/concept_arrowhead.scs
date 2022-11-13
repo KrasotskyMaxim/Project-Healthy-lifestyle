@@ -4,7 +4,7 @@ concept_arrowhead=>nrel_main_idtf:[наконечник стрелы]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[arrowhead]
+[arrowhead]
         (*
                 <-lang_en;;
         *);;

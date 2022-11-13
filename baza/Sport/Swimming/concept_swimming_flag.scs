@@ -4,7 +4,7 @@ concept_swimming_flag=>nrel_main_idtf:[флажок для плавания]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_flag]
+[swimming_flag]
         (*
                 <-lang_en;;
         *);;

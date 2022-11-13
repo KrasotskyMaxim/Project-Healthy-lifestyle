@@ -5,7 +5,7 @@ concept_compound_bow=>nrel_main_idtf:[блочный лук]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[compound bow]
+[compound bow]
         (*
                 <-lang_en;;
         *);;

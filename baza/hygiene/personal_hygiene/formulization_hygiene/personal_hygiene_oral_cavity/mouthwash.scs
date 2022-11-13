@@ -2,7 +2,7 @@ mouthwash=>nrel_main_idtf:[полоскание рта]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mouthwash with special agents]
+ [mouthwash with special agents]
         (*
                 <-lang_en;;
         *);;

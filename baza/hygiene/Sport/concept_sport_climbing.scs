@@ -4,7 +4,7 @@ concept_sport_climbing=>nrel_main_idtf:[спортивное скалолаза�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[sport climbing]
+[sport climbing]
         (*
                 <-lang_en;;
         *);;

@@ -3,7 +3,7 @@ chronic_otitis_externa=>nrel_main_idtf:[хронический наружный 
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[chronic otitis externa]
+ [chronic otitis externa]
         (*
                 <-lang_en;;
         *);;
@@ -23,4 +23,4 @@ statement->...
 =>nrel_using_constants:{acute_otitis_externa;concept_ear_pick};;
 *);;
 
-chronic_otitis_externa=>nrel_unique_idtf:[AA13](*<-lang_en;;*);;
+chronic_otitis_externa=>nrel_unique_idtf: [chronic otitis externa](*<-lang_en;;*);;

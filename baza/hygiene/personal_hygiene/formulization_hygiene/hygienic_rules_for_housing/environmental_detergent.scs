@@ -4,7 +4,7 @@ environmental_detergent=>nrel_main_idtf:[экологическое моющее
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[environmental detergent]
+ [environmental detergent]
         (*
                 <-lang_en;;
 *);;

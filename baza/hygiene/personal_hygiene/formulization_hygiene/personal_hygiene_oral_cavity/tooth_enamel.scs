@@ -2,11 +2,11 @@ tooth_enamel=>nrel_main_idtf:[зубная эмаль]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[tooth_enamel]
+ [tooth_enamel]
         (*
                 <-lang_en;;
         *);;
-tooth_enamel=>nrel_idtf:[эмаль]
+tooth_enamel=>nrel_idtf: [эмаль]
         (*
                 <-lang_ru;;
         *);;      

@@ -4,15 +4,15 @@ concept_hepatitis_C => nrel_main_idtf: [hepatitis C](*<- lang_en;;*);;
 
 
 
-concept_hepatitis_C<-sc_node_norole_relation;
+nrel_concept_hepatitis_C<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.2](*<-lang_en;;*);;
-concept_hepatitis_C<-sc_node_norole_relation;
+nrel_concept_hepatitis_C<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1E50.2](*<-lang_ru;;*);;
 
 concept_hepatitis_C<-concept_disease;;
 
 
-concept_hepatitis_C<-sc_node_norole_relation;
+nrel_concept_hepatitis_C<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[2 weeks](*<-lang_en;;*);;

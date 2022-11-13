@@ -3,7 +3,7 @@ concept_hygienic_toothpaste=>nrel_main_idtf:[гигиеническая зубн
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hygienic toothpaste]
+ [hygienic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -25,7 +25,7 @@ cleansing=>nrel_main_idtf:[очищающая гигиеническая зуб�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[hygienic toothpaste]
+ [hygienic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -35,7 +35,7 @@ deodorizing=>nrel_main_idtf:[дезодорирующая гигиеническ
                 <-lang_ru;;
         *);
 
-nrel_main_idtf:[deodorizing hygienic toothpaste]
+ [deodorizing hygienic toothpaste]
         (*
                 <-lang_en;;
         *);;

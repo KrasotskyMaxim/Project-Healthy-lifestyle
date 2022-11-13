@@ -90,7 +90,7 @@ concept_fibrillar_collagen=>nrel_main_idtf:[фибриллярный колла�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[fibrillar collagen]
+[fibrillar collagen]
         (*
                 <-lang_en;;
         *);;
@@ -101,7 +101,7 @@ concept_non_fibrillar_collagen=>nrel_main_idtf:[нефибриллярный к�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[non fibrillar collagen]
+[non fibrillar collagen]
         (*
                 <-lang_en;;
         *);;

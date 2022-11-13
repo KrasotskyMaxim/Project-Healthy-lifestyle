@@ -5,7 +5,7 @@ concept_majra=>nrel_main_idtf:[маджра]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[majra]
+[majra]
         (*
                 <-lang_en;;
         *);;

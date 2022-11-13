@@ -5,7 +5,7 @@ concept_button=>nrel_main_idtf:[кнопка]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[button]
+[button]
         (*
                 <-lang_en;;
         *);;

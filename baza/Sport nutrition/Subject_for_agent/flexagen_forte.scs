@@ -1,5 +1,5 @@
 flexagen_forte=>
-nrel_main_idtf:[Flexagen Forte]
+[Flexagen Forte]
         (*
                 <-lang_ru;;
         *);;
@@ -32,7 +32,7 @@ collagen_type_2;
 vitamin_C;;
 
 collagen_type_2=>
-nrel_main_idtf:[коллаген типа II]
+[коллаген типа II]
         (*
                 <-lang_ru;;
         *);;

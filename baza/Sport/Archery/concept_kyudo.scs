@@ -6,7 +6,7 @@ concept_kyudo=>nrel_main_idtf:[кюдо]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[kyudo]
+[kyudo]
         (*
                 <-lang_en;;
         *);;

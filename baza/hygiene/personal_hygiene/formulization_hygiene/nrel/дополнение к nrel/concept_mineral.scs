@@ -5,7 +5,7 @@ concept_mineral=>nrel_main_idtf:[минерал]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mineral]
+ [mineral]
         (*
                 <-lang_en;;
         *);;

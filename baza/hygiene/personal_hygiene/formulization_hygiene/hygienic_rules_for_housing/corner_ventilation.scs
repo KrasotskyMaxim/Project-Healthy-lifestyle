@@ -2,7 +2,7 @@ corner_ventilation=>nrel_main_idtf:[угловое проветривание]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[corner ventilate]
+ [corner ventilate]
         (*
                 <-lang_en;;
 *);;

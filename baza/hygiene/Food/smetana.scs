@@ -2,11 +2,11 @@ smetana=>nrel_main_idtf:[сметана]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[smetana]
+[smetana]
         (*
                 <-lang_en;;
         *);
-nrel_main_idtf:[смятана]
+[смятана]
         (*
                 <-lang_b;;
         *);;

@@ -2,7 +2,7 @@ behavior_people=>nrel_main_idtf:[поведение человека]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[human behavior]
+[human behavior]
         (*
                 <-lang_en;;
         *);;

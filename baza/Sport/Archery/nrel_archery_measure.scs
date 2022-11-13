@@ -1,8 +1,13 @@
-nrel_archery_measure
-<-sc_node_norole_relation;
-=>nrel_main_idtf:
-[archery measure](*<-lang_en;;*);
-[измеряемое значение при стрельбе из лука*](*<-lang_ru;;*);
+nrel_archery_measure<-sc_node_norole_relation;;
+
+nrel_archery_measure=>nrel_main_idtf:[archery measure]
+(*
+    <-lang_en;;
+*);
+[измеряемое значение при стрельбе из лука*]
+(*
+    <-lang_ru;;
+*);
 
 <-rrel_key_sc_element:...(*
 <-definition;;

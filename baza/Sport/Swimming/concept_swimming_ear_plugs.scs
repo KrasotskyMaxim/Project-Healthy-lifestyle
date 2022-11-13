@@ -6,7 +6,7 @@ concept_swimming_ear_plugs=>nrel_main_idtf:[беруши для плавания
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_ear_plugs]
+[swimming_ear_plugs]
         (*
                 <-lang_en;;
         *);;

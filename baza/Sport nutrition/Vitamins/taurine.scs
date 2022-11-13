@@ -4,7 +4,7 @@ taurine =>nrel_main_idtf:[таурин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[taurine]
+[taurine]
         (*
                 <-lang_en;;
         *);;

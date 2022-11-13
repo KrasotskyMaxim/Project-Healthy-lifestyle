@@ -3,7 +3,7 @@ concept_liquid_soap=>nrel_main_idtf:[жидкое мыло]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[liquid soap]
+ [liquid soap]
         (*
                 <-lang_en;;
         *);;

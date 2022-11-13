@@ -5,7 +5,7 @@ concept_clicker=>nrel_main_idtf:[кликер]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[clicker]
+[clicker]
         (*
                 <-lang_en;;
         *);;

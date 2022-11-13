@@ -2,7 +2,7 @@ toothache=>nrel_main_idtf:[зубная боль]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[toothache]
+ [toothache]
         (*
                 <-lang_en;;
         *);;

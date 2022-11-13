@@ -2,7 +2,7 @@ dentist=>nrel_main_idtf:[стоматолог]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[dentist]
+ [dentist]
         (*
                 <-lang_en;;
         *);;
@@ -11,7 +11,7 @@ dentist=>nrel_idtf:[дантист]
         (*
                 <-lang_ru;;
         *);
- nrel_idtf:[одонтолог]
+ [одонтолог]
         (*
                 <-lang_ru;;
         *);;       

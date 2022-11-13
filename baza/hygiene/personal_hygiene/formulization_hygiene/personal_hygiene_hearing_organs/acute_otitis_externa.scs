@@ -3,10 +3,10 @@ acute_otitis_externa=>nrel_main_idtf:[острый наружный отит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[acute otitis externa]
+ [acute otitis externa]
         (*
                 <-lang_en;;
         *);;
 
 
-acute_otitis_externa=>nrel_unique_idtf:[AA11](*<-lang_en;;*);;
+acute_otitis_externa=>nrel_unique_idtf: [acute otitis externa](*<-lang_en;;*);;

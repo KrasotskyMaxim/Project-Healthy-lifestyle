@@ -4,7 +4,7 @@ concept_organic_mineral=>nrel_main_idtf:[органические минерал
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[organic minerals]
+ [organic minerals]
         (*
                 <-lang_en;;
         *);;
@@ -29,7 +29,7 @@ abelsonite=>nrel_main_idtf:[абелсонит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[abelsonite]
+ [abelsonite]
         (*
                 <-lang_en;;
         *);;

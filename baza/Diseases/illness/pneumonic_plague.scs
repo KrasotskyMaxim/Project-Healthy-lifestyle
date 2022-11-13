@@ -2,15 +2,15 @@ concept_pneumonic_plague<-sc_node_not_relation;;
 concept_pneumonic_plague=> nrel_main_idtf: [легочная чума](*<- lang_ru;;*);;
 concept_pneumonic_plague=> nrel_main_idtf: [pneumonic plague](*<- lang_en;;*);;
 
-concept_pneumonic_plague<-sc_node_norole_relation;
+nrel_concept_pneumonic_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93.2](*<-lang_en;;*);;
-concept_pneumonic_plague<-sc_node_norole_relation;
+nrel_concept_pneumonic_plague<-sc_node_norole_relation;
 =>nrel_unique_idtf:[1B93.2](*<-lang_ru;;*);;
 
 concept_pneumonic_plague<-concept_disease;;
 
 
-concept_pneumonic_plague<-sc_node_norole_relation;
+nrel_concept_pneumonic_plague<-sc_node_norole_relation;
 =>nrel_incubation_period:...
 (*
 =>rrel_minimalPeriod:[2 days](*<-lang_en;;*);;

@@ -2,7 +2,7 @@ soft_brush=>nrel_main_idtf:[щётка легкой жесткости]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[light stiff brush]
+ [light stiff brush]
         (*
                 <-lang_en;;
         *);;

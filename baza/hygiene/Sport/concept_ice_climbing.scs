@@ -4,7 +4,7 @@ concept_ice_climbing=>nrel_main_idtf:[ледолазание]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[ice climbing]
+[ice climbing]
         (*
                 <-lang_en;;
         *);;

@@ -6,7 +6,7 @@ concept_field_hockey=>nrel_main_idtf:[хоккей на траве]
 		<-lang_ru;;
 	*);
 
-nrel_main_idtf:[field hockey]
+[field hockey]
 	(*
 		<-lang_en;;
 	*);;

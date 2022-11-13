@@ -3,7 +3,7 @@ concept_solid_soap=>nrel_main_idtf:[твердое мыло]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[solid soap]
+ [solid soap]
         (*
                 <-lang_en;;
         *);;

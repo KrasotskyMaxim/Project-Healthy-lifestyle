@@ -6,7 +6,7 @@ concept_pull_buoy=>nrel_main_idtf:[колобашка]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[pull_buoy]
+[pull_buoy]
         (*
                 <-lang_en;;
         *);;

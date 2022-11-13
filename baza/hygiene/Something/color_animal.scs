@@ -2,7 +2,7 @@ coloring_animal=>nrel_main_idtf:[цвет животного]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[animal color]
+[animal color]
         (*
                 <-lang_en;;
         *);;

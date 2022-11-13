@@ -4,7 +4,7 @@ concept_ear_cleaning=>nrel_main_idtf:[чистить уши]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[ear cleaning]
+ [ear cleaning]
         (*
                 <-lang_en;;
         *);;

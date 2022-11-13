@@ -4,7 +4,7 @@ stomatitis=>nrel_main_idtf:[стоматит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[stomatitis]
+ [stomatitis]
         (*
                 <-lang_en;;
         *);;
@@ -25,7 +25,7 @@ stomatitis<-rrel_key_sc_element:...
 
 stomatitis<-nrel_inclusion:concept_desease;;
 
-stomatitis=>nrel_unique_idtf:[DA01](*<-lang_en;;*);;
+stomatitis=>nrel_unique_idtf: [stomatitis](*<-lang_en;;*);;
 
 stomatitis=>nrel_incubation_period:...
 (*
@@ -37,11 +37,11 @@ stomatitis=>nrel_incubation_period:...
 
 ulcers<-sc_node_norole_relation;;
 
-ulcers=>nrel_main_idtf:[язвы]
+1=>nrel_main_idtf: [язвы]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[ulcers]
+  [ulcers]
         (*
                 <-lang_en;;
         *);;
@@ -97,7 +97,7 @@ allergic_stomatitis=>nrel_main_idtf:[аллергический стоматит
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[allergic stomatitis]
+ [allergic stomatitis]
         (*
                 <-lang_en;;
         *);;
@@ -108,7 +108,7 @@ aphthous_stomatitis=>nrel_main_idtf:[афтозный стоматит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[aphthous stomatitis]
+ [aphthous stomatitis]
         (*
                 <-lang_en;;
         *);;
@@ -119,7 +119,7 @@ herpetic_stomatitis=>nrel_main_idtf:[герпетический стоматит
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[herpetic stomatitis]
+ [herpetic stomatitis]
         (*
                 <-lang_en;;
         *);;
@@ -130,7 +130,7 @@ traumatic_stomatitis=>nrel_main_idtf:[травматический стомат�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[traumatic stomatitis]
+ [traumatic stomatitis]
         (*
                 <-lang_en;;
         *);;
@@ -141,7 +141,7 @@ ulcerative_stomatitis=>nrel_main_idtf:[язвенный стоматит]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[ulcerative stomatitis]
+ [ulcerative stomatitis]
         (*
                 <-lang_en;;
         *);;

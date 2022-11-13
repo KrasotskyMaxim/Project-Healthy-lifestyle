@@ -1,12 +1,12 @@
 nrel_classification
 <- sc_node_norole_relation;
 => nrel_main_idtf: 
-	[классификация*] 
+	[классификация] 
 	(* 
 	<- lang_ru;; 
 	*);
 => nrel_main_idtf: 
-	[classification*] 
+	[classification] 
 	(* 
 	<- lang_en;; 
 	*);

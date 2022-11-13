@@ -5,7 +5,7 @@ concept_sterile_cotton_wool=>nrel_main_idtf:[стерильная вата]
                 <-lang_ru;;
         *);
 
-nrel_main_idtf:[sterile сotton wool]
+ [sterile сotton wool]
         (*
                 <-lang_en;;
         *);;

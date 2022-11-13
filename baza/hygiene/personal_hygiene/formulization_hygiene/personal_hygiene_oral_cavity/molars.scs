@@ -1,8 +1,8 @@
-molars=>nrel_main_idtf:[моляры]
+molars=>nrel_main_idtf: [моляр]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[molars]
+  [molars]
         (*
                 <-lang_en;;
         *);;

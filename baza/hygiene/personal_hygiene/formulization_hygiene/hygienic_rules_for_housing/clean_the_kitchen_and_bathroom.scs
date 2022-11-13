@@ -2,7 +2,7 @@ clean_the_kitchen_and_bathroom=>nrel_main_idtf:[убирать кухню и в�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[clean the kitchen and bathroom]
+ [clean the kitchen and bathroom]
         (*
                 <-lang_en;;
 *);;

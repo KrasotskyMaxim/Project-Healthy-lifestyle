@@ -5,7 +5,7 @@ concept_compressor_cotton_wool=>nrel_main_idtf:[компрессная вата]
                 <-lang_ru;;
         *);
 
-nrel_main_idtf:[compressor сotton wool]
+ [compressor сotton wool]
         (*
                 <-lang_en;;
         *);;

@@ -6,7 +6,7 @@ concept_pool_noodle=>nrel_main_idtf:[лапша для бассейна]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[pool_noodle]
+[pool_noodle]
         (*
                 <-lang_en;;
         *);;

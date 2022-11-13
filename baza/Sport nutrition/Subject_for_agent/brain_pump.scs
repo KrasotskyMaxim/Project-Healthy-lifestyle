@@ -1,5 +1,5 @@
 mad_brain_pump=>
-nrel_main_idtf:[Mad Brain Pump]
+[Mad Brain Pump]
         (*
                 <-lang_ru;;
         *);;
@@ -34,16 +34,16 @@ mad_brain_pump=>nrel_norvaline_content:0_3g_per_12g;;
 nrel_citrulline_content
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание цитруллина*]
+          [содержание цитруллина]
           (*<-lang_ru;;*);
-	  [citrulline content*]
+	  [citrulline content]
           (*<-lang_en;;*);;
           
 nrel_norvaline_content
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание норвалина*]
+          [содержание норвалина]
           (*<-lang_ru;;*);
-	  [norvaline content*]
+	  [norvaline content]
           (*<-lang_en;;*);;          
 

@@ -1,7 +1,7 @@
 
 concept_person
-=> nrel_main_idtf: 
-	[human] 
+=> nrel_main_idtf: [персона]
+	  
 	(* 
 	<- lang_en;; 
 	*);;

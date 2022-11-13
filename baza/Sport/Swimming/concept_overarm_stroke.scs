@@ -4,7 +4,7 @@ concept_overarm_stroke=>nrel_main_idtf:[овер-арм]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[overarm stroke]
+[overarm stroke]
         (*
                 <-lang_en;;
         *);;

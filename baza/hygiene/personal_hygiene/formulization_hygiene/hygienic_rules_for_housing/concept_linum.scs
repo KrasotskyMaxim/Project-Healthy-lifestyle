@@ -1,10 +1,10 @@
 concept_linum<-sc_node_not_relation;;
 
-concept_linum=>nrel_main_idtf:[лён]
+concept_linum=>nrel_main_idtf: [нить]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[linum]
+  [linum]
         (*
                 <-lang_en;;
 *);;

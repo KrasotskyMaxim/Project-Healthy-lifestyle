@@ -4,7 +4,7 @@ concept_personal_hygiene_organs_of_vision=>nrel_main_idtf:[личная гиги
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[personal hygiene organs of vision]
+[personal hygiene organs of vision]
         (*
                 <-lang_en;;
         *);;

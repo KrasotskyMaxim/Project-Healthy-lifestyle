@@ -60,7 +60,7 @@ concept_glucosamine=>nrel_main_idtf:[глюкозамин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[glucosamine]
+[glucosamine]
         (*
                 <-lang_en;;
         *);;   
@@ -71,7 +71,7 @@ concept_collagen=>nrel_main_idtf:[коллаген]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[collagen]
+[collagen]
         (*
                 <-lang_en;;
         *);;

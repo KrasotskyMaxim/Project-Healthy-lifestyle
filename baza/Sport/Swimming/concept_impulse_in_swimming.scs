@@ -4,7 +4,7 @@ concept_impulse_in_swimming=>nrel_main_idtf:[толчок]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[impulse_in_swimming]
+[impulse_in_swimming]
         (*
                 <-lang_en;;
         *);;

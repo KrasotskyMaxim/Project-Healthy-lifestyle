@@ -2,7 +2,7 @@ surface_fluoridation=>nrel_main_idtf:[поверхностное фториро�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[surface fluoridation]
+ [surface fluoridation]
         (*
                 <-lang_en;;
         *);;

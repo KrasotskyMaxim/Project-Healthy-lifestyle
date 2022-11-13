@@ -6,7 +6,7 @@ concept_parachute_for_swimming=>nrel_main_idtf:[парашют]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[parachute_for_swimming]
+[parachute_for_swimming]
         (*
                 <-lang_en;;
         *);;

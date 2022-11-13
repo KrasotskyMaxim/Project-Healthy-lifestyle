@@ -1,10 +1,10 @@
 concept_cotton<-sc_node_not_relation;;
 
-concept_cotton=>nrel_main_idtf:[хлопок]
+concept_cotton=>nrel_main_idtf: [ткань]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[сotton]
+  [cotton]
         (*
                 <-lang_en;;
 *);;

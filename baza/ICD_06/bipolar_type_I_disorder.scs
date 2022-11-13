@@ -19,8 +19,6 @@ rapid_speech<-sc_node_norole_relation;
 =>nrel_main_idtf:[rapid speech](*<-lang_en;;*);;
 euphoria<-sc_node_norole_relation;
 =>nrel_main_idtf:[euphoria](*<-lang_en;;*);;
-irritability<-sc_node_norole_relation;
-=>nrel_main_idtf:[irritability](*<-lang_en;;*);;
 expansiveness<-sc_node_norole_relation;
 =>nrel_main_idtf:[expansiveness](*<-lang_en;;*);;
 increased_activity<-sc_node_norole_relation;

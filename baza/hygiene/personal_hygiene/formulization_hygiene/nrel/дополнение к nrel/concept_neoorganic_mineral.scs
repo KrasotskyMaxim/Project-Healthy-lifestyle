@@ -5,7 +5,7 @@ concept_neorganic_mineral=>nrel_main_idtf:[неорганические мине
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[neorganic minerals]
+ [neorganic minerals]
         (*
                 <-lang_en;;
         *);;
@@ -40,11 +40,11 @@ concept_neorganic_mineral=>nrel_inclusion:concept_carbide;cocept_nitride;concept
 
 concept_carbide<-sc_node_not_relation;;
 
-concept_carbide=>nrel_main_idtf:[карбид]
+concept_carbide=>nrel_main_idtf: [карбид]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[carbide]
+ [carbide]
         (*
                 <-lang_en;;
         *);;
@@ -66,11 +66,11 @@ concept_carbide<-rrel_key_sc_element:...
 
 cocept_nitride<-sc_node_not_relation;;
 
-cocept_nitride=>nrel_main_idtf:[нитрид]
+cocept_nitride=>nrel_main_idtf: [нитрид]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[nitride]
+ [nitride]
         (*
                 <-lang_en;;
         *);;
@@ -98,7 +98,7 @@ concept_phosphide=>nrel_main_idtf:[фосфиды]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[phosphide]
+ [phosphide]
         (*
                 <-lang_en;;
         *);;
@@ -124,7 +124,7 @@ concept_halide_mineral=>nrel_main_idtf:[галогидные соеденени�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[halide mineral]
+ [halide mineral]
         (*
                 <-lang_en;;
         *);;

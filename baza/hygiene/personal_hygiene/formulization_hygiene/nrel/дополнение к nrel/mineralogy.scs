@@ -4,7 +4,7 @@ mineralogy=>nrel_main_idtf:[минералогия]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mineralogy]
+ [mineralogy]
         (*
                 <-lang_en;;
         *);;

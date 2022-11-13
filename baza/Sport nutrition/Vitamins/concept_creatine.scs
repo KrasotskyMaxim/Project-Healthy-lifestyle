@@ -4,7 +4,7 @@ concept_creatine=>nrel_main_idtf:[креатин]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[creatine]
+[creatine]
         (*
                 <-lang_en;;
         *);;

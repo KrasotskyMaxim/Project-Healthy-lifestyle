@@ -5,7 +5,7 @@ concept_finger_tab=>nrel_main_idtf:[вкладка]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[finger_tab]
+[finger_tab]
         (*
                 <-lang_en;;
         *);;

@@ -4,7 +4,7 @@ caries_enamel=>nrel_main_idtf:[кариес эмали]
         *);
 
 
-nrel_main_idtf:[caries enamel]
+ [caries enamel]
         (*
                 <-lang_en;;
         *);;

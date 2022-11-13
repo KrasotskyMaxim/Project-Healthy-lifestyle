@@ -145,39 +145,39 @@ less_1g_per_25ml=>nrel_main_idtf:[меньше 1 г на 25 мл]
 nrel_L_leucine_content 
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание L-лейцина*]
+          [содержание L-лейцина]
           (*<-lang_ru;;*);
-	  [L-leucine content*]
+	  [L-leucine content]
           (*<-lang_en;;*);;
 
 nrel_isoleucine_content 
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание изолейцина*]
+          [содержание изолейцина]
           (*<-lang_ru;;*);
-	  [Isoleucine content*]
+	  [Isoleucine content]
           (*<-lang_en;;*);;
 
 nrel_L_valine_content 
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание L-валина*]
+          [содержание L-валина]
           (*<-lang_ru;;*);
-	  [L-valine content*]
+	  [L-valine content]
           (*<-lang_en;;*);;
 
 nrel_coffeine_content 
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание кофенина*]
+          [содержание кофенина]
           (*<-lang_ru;;*);
-	  [coffeine content*]
+	  [coffeine content]
           (*<-lang_en;;*);;
 
 nrel_L_cartine_content 
 <-sc_node_norole_relation;
 => nrel_main_idtf:
-          [содержание Л-картина*]
+          [содержание Л-картина]
           (*<-lang_ru;;*);
-	  [L-cartine content*]
+	  [L-cartine content]
           (*<-lang_en;;*);;

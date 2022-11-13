@@ -4,7 +4,7 @@ detergent_for_auto=>nrel_main_idtf:[моющее средство для авт�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[detergent for car]
+ [detergent for car]
         (*
                 <-lang_en;;
 *);;
@@ -28,7 +28,7 @@ detergent_for_auto->rrel_example:grass;;
 
 grass<-sc_node_not_relation;;
 
-grass=>nrel_main_idtf:nrel_main_idtf:[Grass]
+grass=>nrel_main_idtf  
         (*
                 <-lang_en;;
 *);;

@@ -2,7 +2,7 @@ middle_brush=>nrel_main_idtf:[щётка средней жесткости]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[medium hard brush]
+ [medium hard brush]
         (*
                 <-lang_en;;
         *);;

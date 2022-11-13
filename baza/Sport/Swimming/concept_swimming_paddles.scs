@@ -6,7 +6,7 @@ concept_swimming_paddles=>nrel_main_idtf:[лопатки для плавания
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_paddles]
+[swimming_paddles]
         (*
                 <-lang_en;;
         *);;

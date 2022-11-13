@@ -4,7 +4,7 @@ concept_polo=>nrel_main_idtf:[поло]
 (* 
 <-lang_ru;; 
 *);
-nrel_main_idtf:[polo]
+[polo]
         (* 
         <-lang_en;; 
         *);;

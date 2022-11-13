@@ -4,7 +4,7 @@ concept_swimming_speed=>nrel_main_idtf:[скорость плавания]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_speed]
+[swimming_speed]
         (*
                 <-lang_en;;
         *);;

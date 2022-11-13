@@ -4,9 +4,9 @@ catarrhal_media_otitis=>nrel_main_idtf:[cредний катаральный о�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[catarrhal average otitis]
+ [catarrhal average otitis]
         (*
                 <-lang_en;;
         *);;
 
-otitis=>nrel_unique_idtf:[AAxx](*<-lang_en;;*);;
+otitis=>nrel_unique_idtf: [otitis](*<-lang_en;;*);;

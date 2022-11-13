@@ -3,7 +3,7 @@ concept_therapeutic_toothpaste=>nrel_main_idtf:[лечебно-профилак�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -33,7 +33,7 @@ concept_anti_cariosis=>nrel_main_idtf:[противокариозная лече
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -42,7 +42,7 @@ concept_anti_inflammatory=>nrel_main_idtf:[противовоспалитель�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -51,7 +51,7 @@ concept_desensitizing=>nrel_main_idtf:[десенсибилизирующая л
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -60,7 +60,7 @@ concept_whitening=>nrel_main_idtf:[отбеливающая лечебно-пр�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -69,7 +69,7 @@ concept_sorption=>nrel_main_idtf:[сорбиционная лечебно-про
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;
@@ -78,7 +78,7 @@ concept_organic=>nrel_main_idtf:[органическая лечебно-про�
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[therapeutic toothpaste]
+ [therapeutic toothpaste]
         (*
                 <-lang_en;;
         *);;

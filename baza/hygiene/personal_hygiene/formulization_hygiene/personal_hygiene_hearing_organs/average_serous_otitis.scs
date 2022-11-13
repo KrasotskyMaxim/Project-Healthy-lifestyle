@@ -3,9 +3,9 @@ media_serous_otitis=>nrel_main_idtf:[средний серозный (экссу
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[average serous otitis]
+ [average serous otitis]
         (*
                 <-lang_en;;
         *);;
 
-otitis=>nrel_unique_idtf:[AA91](*<-lang_en;;*);;
+otitis=>nrel_unique_idtf: [otitis](*<-lang_en;;*);;

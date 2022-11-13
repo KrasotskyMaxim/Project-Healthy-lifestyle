@@ -4,7 +4,7 @@ concept_swimming_drafting=>nrel_main_idtf:[драфтинг в плавании]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[swimming_drafting]
+[swimming_drafting]
         (*
                 <-lang_en;;
         *);;

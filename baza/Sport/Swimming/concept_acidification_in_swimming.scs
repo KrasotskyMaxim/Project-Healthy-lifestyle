@@ -4,7 +4,7 @@ concept_acidification_in_swimming=>nrel_main_idtf:[закисление]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[acidification_in_swimming]
+[acidification_in_swimming]
         (*
                 <-lang_en;;
         *);;

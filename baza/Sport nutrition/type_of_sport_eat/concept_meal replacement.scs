@@ -72,7 +72,7 @@ concept_mixture=>nrel_main_idtf:[смесь]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[mixture]
+[mixture]
         (*
                 <-lang_en;;
         *);;
@@ -83,7 +83,7 @@ concept_bar=>nrel_main_idtf:[батончик]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[bar]
+[bar]
         (*
                 <-lang_en;;
         *);; 
@@ -95,7 +95,7 @@ concept_soup=>nrel_main_idtf:[суп]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[soup]
+[soup]
         (*
                 <-lang_en;;
         *);;
@@ -107,7 +107,7 @@ concept_drink=>nrel_main_idtf:[напиток]
         (*
                 <-lang_ru;;
         *);
-nrel_main_idtf:[drink]
+[drink]
         (*
                 <-lang_en;;
         *);; 
